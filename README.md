@@ -7,12 +7,12 @@ Imagine a world where you don't need to setup anything on your local machine to 
 
 This image runs [VS Code](https://github.com/Microsoft/vscode) on a remote server and makes it accessible through the browser.
 It has the following dev tools setup
-* Python3.6
+* Python 3.6
 * git client
 
 ## Getting Started
 
-### Use the DevSpaces shared link
+### One click setup - Use the DevSpaces shared link
 
 [VSCode-Python36](https://www.devspaces.io/devspaces/t/60k8yiwcfp8e9v60)
 
