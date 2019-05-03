@@ -1,4 +1,4 @@
-# code-server
+# DevSpaces - VS Code + Python3.6
 
 [!["Latest Release"](https://img.shields.io/github/release/DevFactory/devspaces-vscode-python.svg)](https://github.com/DevFactory/devspaces-vscode-python/releases/latest)
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/cdr/code-server/blob/master/LICENSE)
@@ -18,6 +18,9 @@ docker run -it -p 127.0.0.1:8443:8443 -v "${PWD}:/home/coder/project" devfactory
 
 Dockerfile is at [/Dockerfile](/Dockerfile).
 
+## Credits
+
+This docker images leverages the code and work of [code-server](https://github.com/cdr/code-server)
 
 ## License
 
