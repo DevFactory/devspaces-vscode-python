@@ -1,6 +1,6 @@
 # code-server
 
-[!["Latest Release"](https://img.shields.io/github/release/cdr/code-server.svg)](https://github.com/cdr/code-server/releases/latest)
+[!["Latest Release"](https://img.shields.io/github/release/DevFactory/devspaces-vscode-python.svg)](https://github.com/DevFactory/devspaces-vscode-python/releases/latest)
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/cdr/code-server/blob/master/LICENSE)
 
 This image runs [VS Code](https://github.com/Microsoft/vscode) on a remote server and makes it accessible through the browser.
