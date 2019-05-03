@@ -34,9 +34,9 @@ devspaces start vscode-python36
 6. Once the devspaces is ready to use, run ```devspaces info vscode-python36``` or go to devspaces.io to find the url for the deployed container
 7. Open the url in the browser
 
-You can then access the VS Code app in the browser at localhost:8443
-
 ### UI
+
+You can then access the VS Code app in the browser at the url listed in your devspace
 
 ![Screenshot](/vscode-python.png)
 ### Docker
