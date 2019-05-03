@@ -3,9 +3,12 @@
 [!["Latest Release"](https://img.shields.io/github/release/DevFactory/devspaces-vscode-python.svg)](https://github.com/DevFactory/devspaces-vscode-python/releases/latest)
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/cdr/code-server/blob/master/LICENSE)
 
-This image runs [VS Code](https://github.com/Microsoft/vscode) on a remote server and makes it accessible through the browser.
-It also has Python3.6 installed by default
+Imagine a world where you don't need to setup anything on your local machine to start coding. With DevSpaces, you can do just that.
 
+This image runs [VS Code](https://github.com/Microsoft/vscode) on a remote server and makes it accessible through the browser.
+It has the following dev tools setup
+* Python3.6
+* git client
 
 ## Getting Started
 
