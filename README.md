@@ -9,11 +9,33 @@ It also has Python3.6 installed by default
 
 ## Getting Started
 
-Try it out:
-```bash
-docker run -it -p 127.0.0.1:8443:8443 -v "${PWD}:/home/coder/project" devfactory/devspaces-vscode-python
-```
+### Use the DevSpaces shared link
 
+[VSCode-Python36](https://www.devspaces.io/devspaces/t/60k8yiwcfp8e9v60)
+
+You can then start the devspace in the browser.
+
+### Create your own devspace
+1. Install the DevSpaces client
+2. Check out this repository into a folder on your machine
+3. Run the following commands 
+
+```bash
+devspaces create
+```
+4. You receive a notification when the devspaces is created
+5. run
+```bash
+devspaces start vscode-python36
+```
+6. Once the devspaces is ready to use, run ```devspaces info vscode-python36``` or go to devspaces.io to find the url for the deployed container
+7. Open the url in the browser
+
+You can then access the VS Code app in the browser at localhost:8443
+
+### UI
+
+![Screenshot](/vscode-python.png)
 ### Docker
 
 Dockerfile is at [/Dockerfile](/Dockerfile).
